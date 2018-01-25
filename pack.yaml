@@ -1,7 +1,7 @@
 ### Place information about your pack version here.
 ---
 ref: ansiblepack
-name: st2-server-status
+name: st2_chatops_aliases
 description: A blank pack template!
 version: 0.1.0
 author: StackStorm Stanley
